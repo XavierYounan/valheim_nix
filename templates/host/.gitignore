@@ -1,0 +1,5 @@
+result
+result-*
+# Runtime secrets belong on the server, never in git.
+env
+restic-password
